@@ -1,0 +1,20 @@
+body{
+  text-align: center;
+}
+h1{
+  font-weight: bold;
+  font-size: 300%;
+}
+.indicators{
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.btn{
+  transition-duration: 0.3s !important;
+}
+#speedOfTest{
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  text-align: center;
+  width: 80px !important;
+}
